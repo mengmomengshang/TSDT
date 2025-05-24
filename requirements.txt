@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 django==2.1.7 
 gunicorn==23.0.0
+=======
+django==2.1.7
+>>>>>>> f671f6723d4ec51deb604f3519063a1bdb6b7a77
